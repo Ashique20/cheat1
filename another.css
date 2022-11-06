@@ -1,0 +1,72 @@
+.parent{
+    height: 500px;
+    justify-content: space-between;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 200px;
+    
+}
+.card-body a{
+   margin-top: 150px;
+}
+.card-body p {
+    margin-top: 100px;
+    align-items: center;
+
+}
+.inputs ul{
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+.inputs{
+    background-color: rgb(215, 215, 215);
+    height: 500px;
+    width: 700px;
+    
+    
+  
+}
+.result{
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 300px;
+
+}
+h1{
+    text-align: center;
+  
+}
+.explore{
+    margin-top: 100px;
+    font-weight: bolder;
+}
+.body{
+    background-color:rgb(237, 237, 237);
+}
+.carousel-slide {
+    width: 90%;
+    height: 10%;
+    margin-left: 100px;
+   
+    
+  
+   
+    
+}
+.carousel-slide img{
+    height: 1000px;
+    
+   
+}
+
+@media screen and (max-width:570px) {
+    
+    .body{
+        width: 90%;
+        margin:10px auto; 
+    }
+    
+
+}   
